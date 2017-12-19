@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include"agraph.h"
+#include"Graph.h"
 using namespace std;
 
 int main()
